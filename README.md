@@ -1,2 +1,2 @@
-# free_wordpress_theme_list
+# Free Wordpress Theme "List"
 Create free wordpress theme:  the theme is called "List".
